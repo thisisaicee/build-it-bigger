@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tell Joke</string>
+    <string name="featured_joke">Featured Joke</string>
+    <string name="featured_joke_not_loaded">Featured Joke</string>
+</resources>

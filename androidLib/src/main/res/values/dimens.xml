@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_start_end_top_bottom">16dp</dimen>
+    <dimen name="joke_label">26sp</dimen>
+    <dimen name="joke_content">18sp</dimen>
+</resources>
